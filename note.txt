@@ -1,0 +1,14 @@
+div
+margin
+padding
+
+Padding: is used to add space between an element and is content and padding has top, left, right, bottom. 
+
+
+
+16px = 1rem
+32px = 2rem 
+8px = 0.5rem 
+4px = 0.25rem 
+
+diplay is block  by default 
