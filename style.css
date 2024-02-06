@@ -57,13 +57,25 @@ header {
 
 .tv_parent {
   background-color: #000000;
-  color: white;
+  color: #ffffff;
 }
 
 .tv_container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
   width: 80%;
   margin: 0 auto;
+}
+
+#download {
+  background-color: #000000;
+}
+.download_content {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  width: 80%;
+  margin: 0 auto;
+  color: #ffffff;
 }
